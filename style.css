@@ -1,0 +1,13 @@
+.search-line{
+    max-width: 355px;
+    height: 36px;
+    border: 2px solid #E5E5EA;
+    border-radius: 20px;
+}
+.search-line__input{
+    border: 1px solid white;
+    display: block;
+    width: 70%;
+    height: 30px;
+    margin: auto ;
+}
