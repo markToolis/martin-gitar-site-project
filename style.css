@@ -11,3 +11,23 @@
     height: 30px;
     margin: auto ;
 }
+.nav{
+    width: 20px;
+    height: 14px;
+}
+.nav__item{
+    height: 2px;
+    margin-bottom: 4px;
+    background: #000;
+    border-radius: 2px;
+}
+.nav__item:nth-child(1){
+    width: 20px;
+}
+.nav__item:nth-child(2){
+    width: 16px;
+}
+.nav__item:nth-child(3){
+    width: 12px;
+    margin-bottom: 0px;
+}
